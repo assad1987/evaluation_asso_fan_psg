@@ -1,4 +1,14 @@
+header {
+    height: 400px;
+}
+.bg-image1 {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
 .titre {
     color: blue;
     font-family: cursive;
+    text-align: center;
 }
+
