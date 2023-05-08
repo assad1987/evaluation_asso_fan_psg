@@ -1,14 +1,24 @@
 header {
     height: 400px;
 }
+
 .bg-image1 {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
+
 .titre {
-    color: blue;
+    color: white;
+    opacity: 0.7;
     font-family: cursive;
     text-align: center;
 }
 
+section {
+    height: 600px;
+}
+
+footer {
+    height: 300px;
+}
