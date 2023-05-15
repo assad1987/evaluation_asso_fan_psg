@@ -1,0 +1,12 @@
+
+.bg-image2 {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 1000px;
+}
+
+article {
+padding: 20px;
+margin: 30px;
+}
