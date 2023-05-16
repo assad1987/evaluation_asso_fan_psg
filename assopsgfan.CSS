@@ -38,3 +38,13 @@ article p {
 footer {
     height: 300px;
 }
+
+#carouselExpampleControls {
+    width: 50%;
+    margin: auto;
+}
+
+.carousel-item img {
+    width: 100%;
+    height: auto;
+}
