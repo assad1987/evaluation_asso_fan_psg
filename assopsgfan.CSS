@@ -31,6 +31,14 @@ article {
     background-repeat: no-repeat;
 }
 
+.bg-image3 {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 300px;
+    width: 100%;
+}
+
 article p {
     font-size: 25px;
 }
@@ -45,6 +53,10 @@ footer {
 }
 
 .carousel-item img {
-    width: 100%;
+    width: 50%;
     height: auto;
+}
+
+h3 {
+    font-family: cursive;
 }
