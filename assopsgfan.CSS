@@ -36,7 +36,8 @@ article {
     background-position: center;
     background-repeat: no-repeat;
     height: 300px;
-    width: 100%;
+    margin: 0px;
+    padding: 0px;
 }
 
 article p {
