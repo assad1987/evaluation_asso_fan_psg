@@ -1,3 +1,11 @@
+body {
+    background-image:url(drapeaupsg.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100%;
+}
+
 header {
     height: 400px;
 }
@@ -70,7 +78,7 @@ h3 {
     font-size: 100%;
   }
   
-  body {
+  /*body {
     font-family: acumin-pro, system-ui, sans-serif;
     margin: 0;
     display: grid;
@@ -79,7 +87,7 @@ h3 {
     background-color: #f4f4f4;
     align-items: start;
     min-height: 100vh;
-  }
+  }*/
   
   .footer {
     display: flex;
